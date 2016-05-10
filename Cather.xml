@@ -868,7 +868,7 @@
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FF0000" bgColor="000000" fontName="" fontStyle="1" fontSize="10" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="800000" bgColor="000000" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="0900A8" fontStyle="0" fgColor="0080C0" fontSize="" />
-        <WidgetStyle name="Selected text colour" styleID="0" bgColor="BB00EA" fontStyle="0" fgColor="CC0000" />
+        <WidgetStyle name="Selected text colour" styleID="0" bgColor="7D009D" fontStyle="0" fgColor="FFFFFF" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="8000FF" fontStyle="0" bgColor="49483E" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="80FFFF" fontStyle="0" bgColor="112435" fontSize="" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="808080" bgColor="000000" fontName="" fontStyle="0" fontSize="" />
@@ -876,15 +876,15 @@
         <WidgetStyle name="Fold active" styleID="0" fgColor="FF0000" fontStyle="0" bgColor="101010" fontSize="8" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="FFFFFF" bgColor="000000" fontStyle="0" fontSize="" />
         <WidgetStyle name="White space symbol" styleID="0" fgColor="FFB56A" fontStyle="0" bgColor="FF8000" />
-        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="00D500" fontStyle="0" fgColor="FCAF3E" fontSize="" />
+        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="008080" fontStyle="0" fgColor="FCAF3E" fontSize="" />
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="FF0000" fontStyle="0" fgColor="555753" fontSize="10" />
         <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00FFFF" fontStyle="0" fgColor="CC0000" fontSize="10" />
         <WidgetStyle name="Mark Style 2" styleID="24" bgColor="FF8000" fontStyle="0" fgColor="E9A354" />
         <WidgetStyle name="Mark Style 3" styleID="23" bgColor="FFFF00" fontStyle="0" fgColor="DFC47D" />
         <WidgetStyle name="Mark Style 4" styleID="22" bgColor="8000FF" fontStyle="0" fgColor="425964" fontSize="10" />
         <WidgetStyle name="Mark Style 5" styleID="21" bgColor="008000" fontStyle="0" fgColor="808080" fontSize="" />
-        <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fontStyle="0" fgColor="FAAA3C" />
-        <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="8000FF" fontStyle="0" fgColor="000000" />
+        <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="004080" fontStyle="0" fgColor="FF8040" />
+        <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="00FF40" fontStyle="0" fgColor="000000" />
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="FFFF00" fontStyle="0" fgColor="000000" />
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="FAAA3C" fontStyle="0" bgColor="808080" />
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" fontStyle="0" bgColor="808080" />
